@@ -1,0 +1,23 @@
+body {
+	background-color: blue;
+	font-family: sans-serif;
+	font-color:green;
+	font-size: 59px
+	text-align: center; 
+}
+button {
+	font-size: 100px;
+
+}
+h1 {
+	color:blue;
+}
+
+<<<<<<< HEAD
+=======
+button {
+	font-size:50px;
+
+}
+
+>>>>>>> origin/master
